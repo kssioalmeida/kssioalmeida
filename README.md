@@ -25,4 +25,4 @@ Here are some ideas to get you started:
  If you want to know more about me, follow me on my social medias:
 
 - [Twitter](https://twitter.com/kssioalmeida)
-- [LinkedIn](https://www.linkedin.com/in/alex-felipe/)
+- [LinkedIn](https://www.linkedin.com/in/kssioalmeida/)
