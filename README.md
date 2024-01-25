@@ -10,5 +10,4 @@ I'm Cássio Almeida, a developer of cool stuffs.
 
  If you want to know more about me, follow me on my social medias:
 
-- [Twitter](https://twitter.com/kssioalmeida)
 - [LinkedIn](https://www.linkedin.com/in/kssioalmeida/)
